@@ -1,0 +1,31 @@
+{
+  "modules": [
+    {
+      "type": "data",
+      "uuid": "f38b407b-1828-4e47-9ea9-2b5f6bfd5378",
+      "version": [
+        0,
+        0,
+        30
+      ],
+      "description": ""
+    }
+  ],
+  "header": {
+    "uuid": "84d41943-0f7e-4c2a-8337-763116ef81d7",
+    "version": [
+      0,
+      0,
+      30
+    ],
+    "description": "服务器日志",
+    "name": "behavior_pack",
+    "min_engine_version": [
+      1,
+      18,
+      0
+    ]
+  },
+  "dependencies": [],
+  "format_version": 2
+}
